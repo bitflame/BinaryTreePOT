@@ -1,0 +1,7 @@
+C:\Users\usr\source\repos\BinaryTreePOT\BinaryTreePOT\bin\Debug\BinaryTreePOT.exe.config
+C:\Users\usr\source\repos\BinaryTreePOT\BinaryTreePOT\bin\Debug\BinaryTreePOT.exe
+C:\Users\usr\source\repos\BinaryTreePOT\BinaryTreePOT\bin\Debug\BinaryTreePOT.pdb
+C:\Users\usr\source\repos\BinaryTreePOT\BinaryTreePOT\obj\Debug\BinaryTreePOT.csprojAssemblyReference.cache
+C:\Users\usr\source\repos\BinaryTreePOT\BinaryTreePOT\obj\Debug\BinaryTreePOT.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\BinaryTreePOT\BinaryTreePOT\obj\Debug\BinaryTreePOT.exe
+C:\Users\usr\source\repos\BinaryTreePOT\BinaryTreePOT\obj\Debug\BinaryTreePOT.pdb
